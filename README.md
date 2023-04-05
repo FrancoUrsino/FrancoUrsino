@@ -1,6 +1,9 @@
 <h2 align="center">Hola 👋! Mi nombre es Franco, actualmente soy Desarrollador Front-End</h2>
 
 ###
+<p align="left">Desde que tengo 17 años que trabajo en diferentes sitios, siempre referidos a la venta tanto venta en salón como call centers pero sentía que no era lo que a mi me gustaba; gracias a estos trabajos adquirí nuevas hard skills y pulí algunas soft skills .<br><br>Luego de la pandemia me animé a incursionar en el mundo IT ya que me daba mucha curiosidad, actualmente me encuentro estudiando distintos lenguajes de programación desde el 2022. Estoy interesado en la parte Front-End ya que quiero darle la mejor experiencia al usuario posible.</p>
+
+###
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=FrancoUrsino&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
@@ -53,8 +56,3 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4" alt="Layout with last medium posts"  />
-</div>
-
-###
